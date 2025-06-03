@@ -1,0 +1,10 @@
+/.claude
+/.env
+/.gradio
+/__pycache__
+/quantum_agent.log
+/quantum_ai_assistant.log
+/quantum_proj.code-workspace
+/requirements.txt
+/server.log
+/venv

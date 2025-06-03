@@ -1,0 +1,28 @@
+# Core quantum computing
+qiskit>=1.1.0
+qiskit-ibm-runtime>=0.22.0
+qiskit-aer>=0.13.0
+
+# AI/ML and NLP
+langchain>=0.1.0
+langchain-openai>=0.0.1
+openai>=1.0.0
+transformers>=4.30.0
+torch>=2.0.0
+sentence-transformers>=2.2.2
+
+# Scientific computing and data
+numpy>=1.24.0
+scipy>=1.10.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+scikit-learn>=1.2.0
+
+# Web interface
+gradio>=4.0.0
+
+# Environment and utilities
+python-dotenv>=0.19.0
+
+# Testing and development
+pytest>=7.0.0
