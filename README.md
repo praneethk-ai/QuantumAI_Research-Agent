@@ -101,7 +101,7 @@ Our system uses GPT-4 to understand your intentions, automatically generates opt
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-repo/quantum-ai-assistant.git
+   git clone https://github.com/praneethk-ai/QuantumAI_Research-Agent.git
    cd quantum-ai-assistant
    ```
 
@@ -159,7 +159,7 @@ python nlp_interface.py \
 | Variable | Description | Required |
 |----------|-------------|----------|
 | `OPENAI_API_KEY` | OpenAI API for natural language processing | ✅ Yes |
-| `IBM_QUANTUM_TOKEN` | IBM Quantum access token | ⚪ Optional |
+| `IBM_QUANTUM_TOKEN` | IBM Quantum access token | ✅ Yes |
 | `QUANTUM_BACKEND` | Default backend (aer_simulator, ibmq_qasm_simulator) | ⚪ Optional |
 | `SHOTS` | Default number of quantum measurements | ⚪ Optional |
 
@@ -236,15 +236,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **[Qiskit Community](https://qiskit.org/)** - Open-source quantum computing ecosystem
 - **Quantum Computing Researchers** - Advancing the field of quantum information science
 
----
 
-## 📞 **Contact & Support**
-
-**Questions? Issues? Ideas?**
-
-- 📧 **Email**: [your-email@domain.com](mailto:your-email@domain.com)
-- 🐙 **GitHub Issues**: [Report bugs or request features](https://github.com/your-repo/quantum-ai-assistant/issues)
-- 💬 **Discussions**: [Join the quantum computing conversation](https://github.com/your-repo/quantum-ai-assistant/discussions)
 
 ---
 
